@@ -7,7 +7,9 @@ int main() {
     int a = 3;
     int b = 10;
 
-    printf("%d + %d = %d", a, b, a+b);
+    printf("%d + %d = %d\n", a, b, a+b);
+    printf("Whataya want from me?");
+    printf("Sauli is like a peach. Fuzzy and sweet.");
 
     return 0;
 }
